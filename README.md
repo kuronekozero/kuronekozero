@@ -22,11 +22,10 @@
   </tr>
 </table>
 
-<br><br>
-
 ### More Projects
 
-Most of my projects you can find in here.
+Most of my projects you can find pinned below.
+<br><br>
 
 ### Browser Scripts
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=Steam-Family-Library-Scraper&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/Steam-Family-Library-Scraper)
