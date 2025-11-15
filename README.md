@@ -2,8 +2,8 @@
 
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kuronekozero/github-stats-transparent/ece48794330d799dc34e8adc7211820cae0690ba/generated/languages.svg" width="300">
-  <img src="https://raw.githubusercontent.com/kuronekozero/github-stats-transparent/ece48794330d799dc34e8adc7211820cae0690ba/generated/overview.svg" width="300">
+  <img src="https://raw.githubusercontent.com/kuronekozero/github-stats-transparent/ece48794330d799dc34e8adc7211820cae0690ba/generated/languages.svg" width="400">
+  <img src="https://raw.githubusercontent.com/kuronekozero/github-stats-transparent/ece48794330d799dc34e8adc7211820cae0690ba/generated/overview.svg" width="400">
 </p>
 
 
