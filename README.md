@@ -5,7 +5,19 @@
 
 <br><br/>
 
-<!-- REPOS_START -->
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <blockquote>
+        <i>"For money, I’d do anything—even get a job."</i>
+      </blockquote>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="terry.jpg" width="250" alt="Terry" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    </td>
+  </tr>
+</table>
+
 ### More Projects
 
 Most of my projects you can find in here:
@@ -29,4 +41,3 @@ Most of my projects you can find in here:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=AnkiVocabHelper&theme=react&description_lines_count=3)](https://github.com/kuronekozero/AnkiVocabHelper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=telegram-translator&theme=react&description_lines_count=3)](https://github.com/kuronekozero/telegram-translator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=AI-japanese-subtitles&theme=react&description_lines_count=3)](https://github.com/kuronekozero/AI-japanese-subtitles)
-<!-- REPOS_END -->
