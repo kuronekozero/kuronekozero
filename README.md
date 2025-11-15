@@ -28,8 +28,6 @@
 
 Most of my projects you can find in here.
 
-<br>
-
 ### Browser Scripts
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=Steam-Family-Library-Scraper&theme=react&description_lines_count=3)](https://github.com/kuronekozero/Steam-Family-Library-Scraper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=youtube-remove-unpopular-videos&theme=react&description_lines_count=3)](https://github.com/kuronekozero/youtube-remove-unpopular-videos)
