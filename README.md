@@ -1,6 +1,6 @@
 <div align="center">
 
-## :boom: This README is a War Crime :boom:
+## :boom: This GitHub is a War Crime :boom:
 
 <br>
 
