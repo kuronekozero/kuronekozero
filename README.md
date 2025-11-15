@@ -3,9 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=react&show_icons=true&hide_rank=true)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuronekozero&layout=compact&theme=react"/>
 
-<br><br/>
+<br><br/><br><br/>
 
-<table align="center">
+<table align="left">
   <tr>
     <td width="50%" align="center" valign="middle">
       <blockquote>
@@ -18,6 +18,8 @@
   </tr>
 </table>
 
+<br><br/>
+<br><br/><br><br/><br><br/><br><br/><br><br/>
 ### More Projects
 
 Most of my projects you can find in here:
