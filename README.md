@@ -8,7 +8,7 @@
 <!-- REPOS_START -->
 ### More Projects
 
-My most useful projects you can find in here:
+Most of my projects you can find in here:
 
 ### Browser Scripts
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=Steam-Family-Library-Scraper&theme=react&description_lines_count=3)](https://github.com/kuronekozero/Steam-Family-Library-Scraper)
