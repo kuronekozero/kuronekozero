@@ -8,7 +8,7 @@
 <!-- REPOS_START -->
 ### More Projects
 
-GitHub's limit of 6 pinned repositories is restrictive - here are more of my key projects organized by category:
+My most useful projects you can find in here:
 
 ### Browser Scripts
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=Steam-Family-Library-Scraper&theme=react&description_lines_count=3)](https://github.com/kuronekozero/Steam-Family-Library-Scraper)
