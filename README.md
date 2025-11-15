@@ -1,15 +1,15 @@
+<div align="center">
+
 ## :wave: This README is a War Crime
 
-  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kuronekozero/github-stats-transparent/ece48794330d799dc34e8adc7211820cae0690ba/generated/languages.svg" width="400">
-  <img src="https://raw.githubusercontent.com/kuronekozero/github-stats-transparent/ece48794330d799dc34e8adc7211820cae0690ba/generated/overview.svg" width="400">
-</p>
+<br>
 
+<img src="https://raw.githubusercontent.com/kuronekozero/github-stats-transparent/ece48794330d799dc34e8adc7211820cae0690ba/generated/languages.svg" width="420">
+<img src="https://raw.githubusercontent.com/kuronekozero/github-stats-transparent/ece48794330d799dc34e8adc7211820cae0690ba/generated/overview.svg" width="420">
 
-<br><br/>
+<br><br>
 
-<table align="left">
+<table>
   <tr>
     <td width="50%" align="center" valign="middle">
       <blockquote>
@@ -22,12 +22,13 @@
   </tr>
 </table>
 
-<br><br/>
-<br><br/><br><br/><br><br/><br><br/><br><br/><br><br/>
+<br><br>
+
 ### More Projects
 
 Most of my projects you can find in here.
-<br><br/>
+
+<br>
 
 ### Browser Scripts
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=Steam-Family-Library-Scraper&theme=react&description_lines_count=3)](https://github.com/kuronekozero/Steam-Family-Library-Scraper)
@@ -48,3 +49,5 @@ Most of my projects you can find in here.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=AnkiVocabHelper&theme=react&description_lines_count=3)](https://github.com/kuronekozero/AnkiVocabHelper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=telegram-translator&theme=react&description_lines_count=3)](https://github.com/kuronekozero/telegram-translator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=AI-japanese-subtitles&theme=react&description_lines_count=3)](https://github.com/kuronekozero/AI-japanese-subtitles)
+
+</div>
