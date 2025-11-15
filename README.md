@@ -1,9 +1,10 @@
 ## :wave: This README is a War Crime
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuronekozero&theme=react&show_icons=true&hide_rank=true)
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuronekozero&layout=compact&theme=react"/>
+  
+![Stats Overview](https://raw.githubusercontent.com/kuronekozero/github-stats-transparent/ece48794330d799dc34e8adc7211820cae0690ba/generated/languages.svg)
+![Most Used Languages](https://raw.githubusercontent.com/kuronekozero/github-stats-transparent/ece48794330d799dc34e8adc7211820cae0690ba/generated/overview.svg)
 
-<br><br/><br><br/>
+<br><br/>
 
 <table align="left">
   <tr>
