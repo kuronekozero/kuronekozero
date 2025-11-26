@@ -28,7 +28,7 @@ Most of my projects you can find pinned below.
 <br><br>
 
 ### Browser Scripts
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=Steam-Family-Library-Scraper&theme=dark&description_lines_count=3)](https://github.com/kuronekozero/Steam-Family-Library-Scraper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=Steam-Family-Library-Scraper&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/Steam-Family-Library-Scraper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=youtube-remove-unpopular-videos&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/youtube-remove-unpopular-videos)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=youtube-shorts-disable-scrolling&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/youtube-shorts-disable-scrolling)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=youtube-remove-short-long-videos&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/youtube-remove-short-long-videos)
