@@ -34,7 +34,6 @@ Most of my projects you can find pinned below.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=youtube-remove-short-long-videos&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/youtube-remove-short-long-videos)
 
 ### Browser Extensions
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=youtube-skip-silence&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/youtube-skip-silence)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=url-to-title&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/url-to-title)
 
 ### Mobile Apps
