@@ -33,9 +33,6 @@ Most of my projects you can find pinned below.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=youtube-shorts-disable-scrolling&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/youtube-shorts-disable-scrolling)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=youtube-remove-short-long-videos&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/youtube-remove-short-long-videos)
 
-### Browser Extensions
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=url-to-title&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/url-to-title)
-
 ### Mobile Apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=NotBought&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/NotBought)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=ReceiptScanningAppVkusVill&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/ReceiptScanningAppVkusVill)
@@ -45,6 +42,9 @@ Most of my projects you can find pinned below.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=AnkiVocabHelper&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/AnkiVocabHelper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=telegram-translator&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/telegram-translator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=AI-japanese-subtitles&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/AI-japanese-subtitles)
+
+### Browser Extensions
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kuronekozero&repo=url-to-title&theme=tokyonight&description_lines_count=3)](https://github.com/kuronekozero/url-to-title)
 
 
 </div>
